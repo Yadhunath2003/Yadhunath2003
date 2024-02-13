@@ -1,1 +1,1 @@
-In this file we will be looking at the basics about git and github.
+In this file, we will be looking at the basics about Git and GitHub.
